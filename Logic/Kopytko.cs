@@ -1,6 +1,7 @@
 namespace TestProjectForCleanCodeSpontan.Logic
 {
-    public class Leg
+    public class Kopytko
     {
+        
     }
 }
