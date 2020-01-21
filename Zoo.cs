@@ -7,7 +7,7 @@ namespace TestProjectForCleanCodeSpontan
     {
         List<Animal> Animals{get;set;}
 
-        public void VeryLongMethodOfNewParametersAndVeryVeryUnpredictableZachoeaniw(){
+        public void NotSoLong(){
             int x=0;
         }
     }
