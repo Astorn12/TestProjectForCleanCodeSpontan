@@ -1,6 +1,6 @@
 namespace TestProjectForCleanCodeSpontan.Logic
 {
-    public class Hoof : Leg
+    public class No i jeszcze jedna nowa
     {
         
     }
