@@ -3,15 +3,7 @@ namespace TestProjectForCleanCodeSpontan.Logic
     public class Kopytko
     {
         private int iWantToBreakeFree;
-        private int  kokokokokokokokokokokokokokokokookokokokokokokokokokokokokokoko;
-        private int  kokokokokokokokokokokokokokokokookokokokokokokokokokoekokokokoko;
-        private int  kokokokokokokokokokokokokokokokookokokokokokokokokokeokokokokoko;
-        private int  kokokokokokokokokokokokokokokokeookokokokokokokokokokokokokokoko;
-        private int  kokokokokokokokokokokokokokokokookoekokokokokokokokokokokokokoko;
-        private int  kokokokokokokokokokokokokokokoekookokokokokokokokokokokokokokoko;
-        private int  kokokokokokokokokokokokokeokokokookokokokokokokokokokokokokokoko;
-        private int  kokokokokokokokokokokokokokoekokookokokokokokokokokokokokokokoko;
-        private int  kokokokokokokokokokokokokoekokokookokokokokokokokokokokokokokoko;
+        
 
         public void IdeNaGrzyby(){
             int t=6;
