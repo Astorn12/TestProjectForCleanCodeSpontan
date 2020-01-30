@@ -1,6 +1,6 @@
 namespace TestProjectForCleanCodeSpontan.Logic
 {
-    public  class Paw :Leg
+    public  class Paw
     {
         
     }

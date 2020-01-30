@@ -1,0 +1,11 @@
+C:\Users\Oskar\Desktop\Semestr 9\Stasiak\TestProjectForCleanCodeSpontan\obj\Debug\netcoreapp3.1\TestProjectForCleanCodeSpontan.csprojAssemblyReference.cache
+C:\Users\Oskar\Desktop\Semestr 9\Stasiak\TestProjectForCleanCodeSpontan\obj\Debug\netcoreapp3.1\TestProjectForCleanCodeSpontan.AssemblyInfoInputs.cache
+C:\Users\Oskar\Desktop\Semestr 9\Stasiak\TestProjectForCleanCodeSpontan\obj\Debug\netcoreapp3.1\TestProjectForCleanCodeSpontan.AssemblyInfo.cs
+C:\Users\Oskar\Desktop\Semestr 9\Stasiak\TestProjectForCleanCodeSpontan\bin\Debug\netcoreapp3.1\TestProjectForCleanCodeSpontan.exe
+C:\Users\Oskar\Desktop\Semestr 9\Stasiak\TestProjectForCleanCodeSpontan\bin\Debug\netcoreapp3.1\TestProjectForCleanCodeSpontan.deps.json
+C:\Users\Oskar\Desktop\Semestr 9\Stasiak\TestProjectForCleanCodeSpontan\bin\Debug\netcoreapp3.1\TestProjectForCleanCodeSpontan.runtimeconfig.json
+C:\Users\Oskar\Desktop\Semestr 9\Stasiak\TestProjectForCleanCodeSpontan\bin\Debug\netcoreapp3.1\TestProjectForCleanCodeSpontan.runtimeconfig.dev.json
+C:\Users\Oskar\Desktop\Semestr 9\Stasiak\TestProjectForCleanCodeSpontan\bin\Debug\netcoreapp3.1\TestProjectForCleanCodeSpontan.dll
+C:\Users\Oskar\Desktop\Semestr 9\Stasiak\TestProjectForCleanCodeSpontan\bin\Debug\netcoreapp3.1\TestProjectForCleanCodeSpontan.pdb
+C:\Users\Oskar\Desktop\Semestr 9\Stasiak\TestProjectForCleanCodeSpontan\obj\Debug\netcoreapp3.1\TestProjectForCleanCodeSpontan.dll
+C:\Users\Oskar\Desktop\Semestr 9\Stasiak\TestProjectForCleanCodeSpontan\obj\Debug\netcoreapp3.1\TestProjectForCleanCodeSpontan.pdb
